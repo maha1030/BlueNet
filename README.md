@@ -1,4 +1,4 @@
-# BlueNet
+# Thisaai Meen - திசை மீன்
 ## Enhancing Efficiency & Sustainability in Tamil Nadu’s Coastal Fishing  
 ### Overview
 Smart Fishing App is a technology-driven fishing solution that helps Tamil Nadu’s coastal fishermen optimize fuel usage, prevent overfishing, and stay within territorial boundaries. It uses GPS tracking, AI-powered fish predictions, and real-time weather analytics to enhance fishing efficiency and sustainability.
